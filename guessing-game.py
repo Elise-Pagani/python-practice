@@ -30,7 +30,7 @@ def guessNumber(range, tries):
     print('Better luck next time! The answer was', correctNumber)
 
 def playGame():
-  print('let\'s play a game')
+  print('let\'s play a game!')
   selectedRange = int(input("How big a number should we guess?: "))
   selectedTries = int(input("How many tries do you want to have?: "))
 
